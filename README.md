@@ -28,7 +28,7 @@ sudo apt install git
 ```
 # Installation
 ```
-https://github.com/bitsnakee/XSS-Scaner.git
+git clone https://github.com/bitsnakee/XSS-Scaner.git
 ```
 # Usage
 ```

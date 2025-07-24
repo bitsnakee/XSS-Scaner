@@ -28,13 +28,13 @@ sudo apt install git
 ```
 # Installation
 ```
-git clone https://github.com/bitsnakee/Proxy.git
+https://github.com/bitsnakee/XSS-Scaner.git
 ```
 # Usage
 ```
-cd Proxy
+cd XSS-Scaner
 ```
 ```
-python3 proxy.py
+python3 Zxes-Hewess.py
 ```
 ![IMG_4940](https://github.com/bitsnakee/XSS-Scaner/blob/main/image/xss.png)

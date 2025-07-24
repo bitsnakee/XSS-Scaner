@@ -701,7 +701,7 @@ if __name__ == "__main__":
 ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚══════╝
 {Style.RESET_ALL}
 {Fore.MAGENTA}Programmer : Snake{Style.RESET_ALL}
-{Fore.MAGENTA}Github : bit_snakee{Style.RESET_ALL}
+{Fore.MAGENTA}Github : bitsnakee{Style.RESET_ALL}
 {Fore.LIGHTBLACK_EX}Version : 1.1.0{Style.RESET_ALL}
 """
     print(banner)
